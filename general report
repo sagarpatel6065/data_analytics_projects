@@ -1,0 +1,112 @@
+
+Data Analysis steps 
+
+  
+
+	•	Create a Problem Statement. 
+
+	•	 Identify the data you want to analyse. 
+
+	•	 Explore and clean the data. 
+
+	•	 Analyse the data to get useful insights. 
+
+	•	 Present the data in terms of reports or dashboards using visualization. 
+
+ 
+
+ *Business Problem: High Cancellation Rates Impacting City Hotel and Resort Hotel Revenue* 
+
+  
+
+In recent years, both City Hotel and Resort Hotel have been facing a significant challenge with high cancellation rates. This issue has resulted in reduced revenues and underutilized hotel rooms, affecting the overall efficiency of revenue generation. The primary goal of both hotels is to lower cancellation rates and optimize revenue generation. This report aims to analyze hotel booking cancellations and explore potential solutions to address this problem. 
+
+  
+
+*Assumptions: * 
+
+1. Unusual occurrences between 2015 and 2017 do not impact the current data. 
+
+2. The information used in the analysis is current and relevant for efficient planning. 
+
+3. The suggested techniques for reducing cancellations do not have unanticipated negative consequences. 
+
+4. The hotels are not currently implementing any of the proposed solutions. 
+
+5. Booking cancellations are the most significant factor affecting revenue generation. 
+
+6. Cancellations result in vacant rooms for the entire booked duration. 
+
+7. Clients make hotel reservations in the same year they make cancellations. 
+
+  
+
+*Research Questions: * 
+
+1. What are the key variables influencing hotel reservation cancellations? 
+
+2. How can hotel reservation cancellations be minimized effectively? 
+
+3. How can hotels be assisted in making pricing and promotional decisions to tackle the issue of cancellations? 
+
+  
+
+*Hypotheses: * 
+
+1. Cancellation rates increase when prices are higher. 
+
+2. Longer waiting lists lead to higher cancellation rates. 
+
+3. Most clients make reservations through offline travel agents. 
+
+  
+
+ Analysis & Findings 
+
+The accompanying bar graph shows the percentage of reservations that are cancelled and those that are not. It is obvious that there are still a considerable number of reservations that have not been cancelled. There are still 37% of clients who cancelled their reservation, which has a significant impact on the hotels' earnings. 
+
+{blue Graph} 
+
+In comparison to resort hotels, city hotels have more bookings. It is possible that resort hotels are more expensive than those in cities. 
+
+{Line Graph} 
+
+The line graph above shows that, on certain days, the average daily rate for a city hotel is less than that of a resort hotel, and on other days, it is even less. It is understood that weekends and holidays may see a rise in resort hotel rates. 
+
+{Graph bar bright} 
+
+We have developed the grouped bar graph to analyse the months with the highest and lowest reservation levels according to reservation status. As can be seen, both the number of confirmed reservations and the number of cancelled reservations is the largest in the month of August. whereas January is the month with the most cancelled reservations. 
+
+{Graph colouring graph} 
+
+This bar graph demonstrates that cancellations are most common when prices are greatest and are least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation. 
+
+Now, let us see which country has the highest reservation cancelled. The top country is Portugal with the highest number of cancellations. 
+
+{Pie graph} 
+
+Let us check the area from where guests are visiting the hotels and making reservations. 
+
+Is it coming from Direct or Groups, Online or Offline Travel Agents? Around 46% of the clients come from online travel agencies, whereas 27% come from groups. Only 4% of clients book hotels directly by visiting them and making reservations. 
+
+{Again, line graph sorted one} 
+
+As seen in the graph, reservations are cancelled when the average daily rate is higher than when it is not cancelled. It clearly proves all the above analysis, that the higher price leads to higher cancellation. 
+
+ 
+
+*Suggestions: * 
+
+Based on the analysis, the following recommendations are suggested to address the high cancellation rates: 
+
+1. Implement dynamic pricing strategies: Hotels can work on flexible pricing strategies, offering discounts and promotions during off-peak periods to incentivize bookings and reduce cancellations. 
+
+2. Weekend and holiday discounts for resort hotels: Offering reasonable discounts on room prices during weekends and holidays may attract more guests and reduce cancellation rates. 
+
+3. January marketing campaigns: In the month of January, hotels can launch targeted marketing campaigns and remarkable offers to boost revenue and reduce cancellations during this peak cancellation period. 
+
+4. Improve hotel quality and services in Portugal: Focusing on enhancing the quality of services and facilities in Portugal can increase guest satisfaction, leading to lower cancellation rates. 
+
+  
+
+By implementing these strategies, both City Hotel and Resort Hotel can mitigate the impact of high cancellation rates and improve overall revenue generation, making them more efficient and successful eventually. 
